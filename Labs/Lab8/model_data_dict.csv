@@ -1,0 +1,21 @@
+﻿id,unique ID for survey vendor
+phone,Phone number for consumer
+gender,Indicator of individual's gender
+age_5way,age buckets 
+ethnicity_4way,"A = Asian, B = Black, H = Hispanic, W = White"
+q1_healthcare,"""Health insurance is complicated, and tens of millions of people in this country do not have it for various reasons. Please think carefully for a minute: are you currently covered by a health insurance plan?"" (1=Yes, 2=No, 3=Unknown, 4=Refuse)"
+married,indicator for whether someone is believed to be married or not 
+modeled_income_bucket,Modeled income in 3 categories
+uninsured_score,"Modeled probability of being uninsured. The score was developed using a predicitive model that used the variable ""q1_healthcare"" as the outcome. "
+state_cd,state code 
+voter_status,an individual's voter status 
+party_id,"party identification, if the person is registered to vote in a state that has party registration "
+hh_size,size of the individual's household 
+gen_vote_2012,"Whether someone voted in the 2012 general election. A = absentee, E = early, M = mail, P = polls, Q = questionable/provisional, Y = voted"
+gen_vote_2010,"Whether someone voted in the 2012 general election. A = absentee, E = early, M = mail, P = polls, Q = questionable/provisional, Y = voted"
+support_score,"modeled probability of political support in the 2012 election, with 100 indicating 100% likelihood of supporting Democrats and 0 indicating 0% likelihood of supporting Republicans "
+turnout_score,"modeled probability of the likelihood of voting in the 2012 election, with 100 indicating 100% likelihood of voting "
+county_fips,county code 
+zip,zip code 
+census_id,census track id number 
+census_neighborhood_type,neighborhood type from the census 
