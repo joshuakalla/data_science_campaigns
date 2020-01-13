@@ -27,3 +27,7 @@ sudo -E apt-get install texlive-xetex
 ```
 
 To link students directly to labs, I am using nbgitpuller. To use this, I go [here](https://jupyterhub.github.io/nbgitpuller/link). There, I enter in the IP address for JupyterHub. Under URL path, I enter something like `notebooks/data_science_campaigns/Labs/Lab1/lab01.ipynb`. Under Repository URL I enter something like `https://github.com/joshuakalla/data_science_campaigns`. This produces a link that I can then distribute to students.
+
+
+
+I am redirecting the Google VM to http://datascience4politics.org. To set-up the redirect, I followed the directions at https://www.bloggerlessons.com/set-up-a-domain-on-google-cloud-server/. 
