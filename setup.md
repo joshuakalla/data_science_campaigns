@@ -31,3 +31,5 @@ To link students directly to labs, I am using nbgitpuller. To use this, I go [he
 
 
 I am redirecting the Google VM to http://datascience4politics.org. To set-up the redirect, I followed the directions at https://www.bloggerlessons.com/set-up-a-domain-on-google-cloud-server/. 
+
+Thanks!
