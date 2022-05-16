@@ -8,7 +8,7 @@ Under start-up script, I entered:
 
 ```
 #!/bin/bash
-curl https://raw.githubusercontent.com/jupyterhub/the-littlest-jupyterhub/master/bootstrap/bootstrap.py \
+curl -L https://tljh.jupyter.org/bootstrap.py \
   | sudo python3 - \
     --admin jkalla - \
     --user-requirements-txt-url https://raw.githubusercontent.com/joshuakalla/data_science_campaigns/master/requirements.txt
