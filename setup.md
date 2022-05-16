@@ -24,6 +24,10 @@ sudo -E jupyter nbextension     install --sys-prefix --py nbzip
 sudo -E jupyter nbextension     enable  --sys-prefix --py nbzip
 sudo -E apt-get install pandoc
 sudo -E apt-get install texlive-xetex
+sudo -E pip install hide_code
+sudo -E jupyter nbextension install --py hide_code
+sudo -E jupyter nbextension enable --py hide_code
+sudo -E jupyter serverextension enable --py hide_code
 ```
 
 To link students directly to labs, I am using nbgitpuller. To use this, I go [here](https://jupyterhub.github.io/nbgitpuller/link). There, I enter in the IP address for JupyterHub. Under URL path, I enter something like `notebooks/data_science_campaigns/Labs/Lab1/lab01.ipynb`. Under Repository URL I enter something like `https://github.com/joshuakalla/data_science_campaigns`. This produces a link that I can then distribute to students.
