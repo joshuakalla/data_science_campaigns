@@ -24,7 +24,8 @@ sudo -E jupyter nbextension     install --sys-prefix --py nbzip
 sudo -E jupyter nbextension     enable  --sys-prefix --py nbzip
 sudo -E apt-get install pandoc
 sudo -E apt-get install texlive-xetex
-sudo -E pip install hide_code
+sudo -E pip install git+https://github.com/fdion/hide_code@compatibility
+# sudo -E apt-get install wkhtmltopdf
 sudo -E jupyter nbextension install --py hide_code
 sudo -E jupyter nbextension enable --py hide_code
 sudo -E jupyter serverextension enable --py hide_code
