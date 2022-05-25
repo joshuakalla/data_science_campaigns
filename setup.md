@@ -25,15 +25,31 @@ sudo -E jupyter nbextension     enable  --sys-prefix --py nbzip
 sudo apt-get install xvfb
 sudo -E apt-get install pandoc
 sudo -E apt-get install texlive-xetex
-sudo -E apt-get install wkhtmltopdf
 sudo -E pip install git+https://github.com/fdion/hide_code@compatibility
-sudo -E jupyter nbextension install --py hide_code
-sudo -E jupyter nbextension enable --py hide_code
-sudo -E jupyter serverextension enable --py hide_code
+sudo -E jupyter nbextension install --system --py hide_code
+sudo -E jupyter nbextension enable --system --py hide_code
+sudo -E jupyter serverextension enable --system --py hide_code
+sudo -E apt-get install wkhtmltopdf
+
+cd /usr/bin
+sudo bash
+mv wkhtmltopdf wkhtmltopdf.exe
+
+nano wkhtmltopdf
+```
+
+This will open up a nano text editor. Within that editor, I add:
+```
 #!/bin/bash
-xvfb-run -a -s "-screen 0 640x480x16" /usr/bin/wkhtmltopdf "$@"
+xvfb-run -a -s "-screen 0 640x480x16" /usr/bin/wkhtmltopdf.exe "$@"
+```
+
+I think save annd exit the editor. Finally, in the Terminal I add:
+```
 chmod a+x wkhtmltopdf
 ```
+
+I can then exit the Terminal. This allows the `hide_code` extension to work. To turn this on, within a Notebook, go to View --> Cell Toolbar --> Hide code. To export a PDF, click Hide Code on the main menu and select PDF Export (HTML). The Latex option won't work.
 
 To link students directly to labs, I am using nbgitpuller. To use this, I go [here](https://jupyterhub.github.io/nbgitpuller/link). There, I enter in the IP address for JupyterHub. Under URL path, I enter something like `notebooks/data_science_campaigns/Labs/Lab1/lab01.ipynb`. Under Repository URL I enter something like `https://github.com/joshuakalla/data_science_campaigns`. This produces a link that I can then distribute to students.
 
