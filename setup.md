@@ -44,7 +44,7 @@ This will open up a nano text editor. Within that editor, I add:
 xvfb-run -a -s "-screen 0 640x480x16" /usr/bin/wkhtmltopdf.exe "$@"
 ```
 
-I think save annd exit the editor. Finally, in the Terminal I add:
+I then save and exit the editor. Finally, in the Terminal I add:
 ```
 chmod a+x wkhtmltopdf
 ```
