@@ -53,8 +53,14 @@ I can then exit the Terminal. This allows the `hide_code` extension to work. To 
 
 To link students directly to labs, I am using nbgitpuller. To use this, I go [here](https://jupyterhub.github.io/nbgitpuller/link). There, I enter in the IP address for JupyterHub. Under URL path, I enter something like `notebooks/data_science_campaigns/Labs/Lab1/lab01.ipynb`. Under Repository URL I enter something like `https://github.com/joshuakalla/data_science_campaigns`. This produces a link that I can then distribute to students.
 
+I am redirecting the Google VM to http://datascience4politics.org. To set-up the redirect, I:
 
+1. Log into console.cloud.google.com.
+2. Navigate to VM Instances and copy the External IP address of the course VM.
+3. Navigate to Networking &rarr; Network Services &rarr; Cloud DNS.
+4. Update the IP address under Type A Record Set.
+5. Save and done.
 
-I am redirecting the Google VM to http://datascience4politics.org. To set-up the redirect, I followed the directions at https://www.bloggerlessons.com/set-up-a-domain-on-google-cloud-server/. 
+(For additional directions, see https://www.bloggerlessons.com/set-up-a-domain-on-google-cloud-server/.)
 
 Thanks!
