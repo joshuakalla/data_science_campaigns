@@ -2,7 +2,7 @@
 
 In order to set up the course infrastructure, I followed the procedures described [here](https://the-littlest-jupyterhub.readthedocs.io/en/latest/install/google.html). 
 
-I created an instance with 12 vCPUs, 26 GB memory, and 100 GB standard persistent disk.
+I created an instance with 12 vCPUs, 26 GB memory, and 100 GB standard persistent disk. I estimate that I need 350 MB of memory per user.
 
 Under start-up script, I entered:
 
