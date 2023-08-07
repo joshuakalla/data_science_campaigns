@@ -1,4 +1,4 @@
-﻿ea_id,spanish_speaking,state,modeled_income_bucket,race4way,gender ,age_bucket,uninsured_score,registered_voter,gen_vote_2012,gen_vote_2010,party_id,uninsured_reported,subscribed,voted_2012,voted_2010,treatment,medicaid_name,chase_attempts,chase_conversation_counts,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q10A,Q10B,Q10C,Q10D,Q10E,Q10F,Q11,Q12,Q13,Q14,Q15,caller,date
+﻿ea_id,spanish_speaking,state,modeled_income_bucket,race4way,gender,age_bucket,uninsured_score,registered_voter,gen_vote_2012,gen_vote_2010,party_id,uninsured_reported,subscribed,voted_2012,voted_2010,treatment,medicaid_name,chase_attempts,chase_conversation_counts,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q10A,Q10B,Q10C,Q10D,Q10E,Q10F,Q11,Q12,Q13,Q14,Q15,caller,date
 3,0,Arizona,1-under 40k,H,F,45-54,30.06,1,E,E,Democrat,0,1,1,1,0,Access,0,0,2,2,,2,,,,2,1,2,,,,,,,1,1,2,1963,2,9033,4/23/14
 6,0,Arizona,1-under 40k,H,M,35-44,36.81,1,,,Democrat,1,,0,0,0,Access,0,0,2,2,,1,2,1,1,1,1,4,,,,,,,,1,2,1962,1,11552,4/17/14
 12,0,Arizona,1-under 40k,H,M,35-44,35.99,1,E,E,Democrat,1,1,1,1,1,Access,2,2,1,,1,2,,,,1,2,2,,,,,,,1,1,2,1971,1,11208,4/16/14
