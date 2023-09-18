@@ -49,6 +49,13 @@ I then save and exit the editor. Finally, in the Terminal I add:
 chmod a+x wkhtmltopdf
 ```
 
+In order to prevent a user from overloading the VM,I set user server limits. In Terminal, I add:
+```
+sudo tljh-config set limits.memory 1G
+sudo tljh-config set limits.cpu 0.5
+```
+For more details, see [here](https://tljh.jupyter.org/en/latest/topic/tljh-config.html#user-server-limits).
+
 I can then exit the Terminal. This allows the `hide_code` extension to work. To turn this on, within a Notebook, go to View &rarr; Cell Toolbar &rarr; Hide code. To export a PDF, click Hide Code on the main menu and select PDF Export (HTML). The Latex option won't work.
 
 To link students directly to labs, I am using nbgitpuller. To use this, I go [here](https://jupyterhub.github.io/nbgitpuller/link). There, I enter in the IP address for JupyterHub. Under URL path, I enter something like `notebooks/data_science_campaigns/Labs/Lab1/lab01.ipynb`. Under Repository URL I enter something like `https://github.com/joshuakalla/data_science_campaigns`. This produces a link that I can then distribute to students.
