@@ -49,10 +49,10 @@ I then save and exit the editor. Finally, in the Terminal I add:
 chmod a+x wkhtmltopdf
 ```
 
-In order to prevent a user from overloading the VM,I set user server limits. In Terminal, I add:
+In order to prevent a user from overloading the VM,I set user [server limits](https://tljh.jupyter.org/en/latest/topic/tljh-config.html#tljh-set-user-limits). In Terminal, I add:
 ```
-sudo tljh-config set limits.memory 1G
-sudo tljh-config set limits.cpu 0.5
+sudo tljh-config set limits.memory 0.5G
+sudo tljh-config set limits.cpu 0.4
 ```
 For more details, see [here](https://tljh.jupyter.org/en/latest/topic/tljh-config.html#user-server-limits).
 
