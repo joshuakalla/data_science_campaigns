@@ -1,0 +1,44 @@
+﻿phone,Phone number for consumer
+ea_id,unique ID for survey vendor
+spanish_speaking,Tagged as Spanish speaking during a previous conversation with the organization 
+state,State of residence
+modeled_income_bucket,Modeled income in 3 categories
+race4way,"A = Asian, B = Black, H = Hispanic, W = White"
+gender,Indicator of individual's gender
+age_bucket,Modeled age in 6 categories
+uninsured_score,Modeled probability of being uninsured
+registered_voter,Binary indicator for registered voter as of the 2012 general election
+gen_vote_2012,"Whether someone voted in the 2012 general election. A = absentee, E = early, M = mail, P = polls, Q = questionable/provisional, Y = voted"
+gen_vote_2010,"Whether someone voted in the 2012 general election. A = absentee, E = early, M = mail, P = polls, Q = questionable/provisional, Y = voted"
+uninsured_reported,1 = consumer at some point before the experiment started indicated to the organization that he/she was uninsured at that point in time
+subscribed,Subscribed to GCA email list as of 3/14/2014
+voted_2012,"1 = voted, 0 = did not vote"
+voted_2010,"1 = voted, 0 = did not vote"
+party_3way,"D = Democrat, R = Republican, O = Other/Unknown"
+treatment,Treatment assignment indicating which individuals are in the treatment group 
+medicaid_name,Medicaid state program name
+chase_attempts,Number of phone outreach attempts during chase period
+chase_conversation_counts,Number of phone conversations during chase period
+Q1,"In the past month have you tried to enroll in health coverage through the new health insurance marketplace, sometimes called HealthCare.gov? (1 = Yes, 2 = No, 3 = Other/DK, 4 = Ref)"
+Q2,"In the past month have you tried to enroll in Medicaid, sometimes called [PROGRAM_NAME]?  (1 = Yes, 2 = No, 3 = Other/DK)"
+Q3,"Did you successfully enroll in health coverage? (1 = Yes, 2 = No, 3 = Other/DK)"
+Q4,"Do you currently have health insurance? This could include coverage through an employer, Medicaid, sometimes called [PROGRAM_NAME], or other sources of insurance that help pay for the costs of medical care. (1 = Yes, 2 = No, 3 = Other/DK)"
+Q5,"Did you get your insurance through the new health insurance marketplace, sometimes called HealthCare.gov? This is the marketplace that is part of the new health care law with gold, silver, and bronze plans. (1 = Yes, 2 = No, 3 = Other/DK)"
+Q6,"Do you have health coverage through Medicaid, sometimes called [PROGRAM_NAME]? (1 = Yes, 2 = No, 3 = Other/DK)"
+Q7,"Think about the past 6 months—since October 1st of 2013. Did you go without health coverage at any point in the past 6 months? (1 = Yes, 2 = No, 3 = Other/DK)"
+Q8,"Do you feel like you have enough information about the new health care law and how it affects you and your family? (1 = Yes, 2 = No, 3 = Other/DK)"
+Q9,"Would you say the new health reform law does or does not require people to either have health insurance or pay a fine? (1 = Yes, 2 = No, 3 = Other/DK)"
+Q10,"Even though new health insurance options are available, many people decided not to get insurance. Some of the reasons why people didn’t get health insurance include (1 = Didn't have time, 2 = Couldn't afford a plan, 3 = Didn't think insurance was necessary, 4 = Didn't know about new options, 5 = Worried about immigration problems, 6 = Other/DK)"
+Q10A,See above
+Q10B,See above
+Q10C,See above
+Q10D,See above
+Q10E,See above
+Q10F,See above
+Q11,"Do you plan on getting health insurance at some point over the next year?  (1 = Yes, 2 = No, 3 = Other/DK)"
+Q12,"Did you know that the deadline for signing up for health insurance through HealthCare.gov for most people was on March 31? (1 = Yes, 2 = No, 3 = Other/DK)"
+Q13,"Have you heard of Get Covered America, a non-profit organization focused on raising public awareness and engaging consumers about their new, affordable health insurance options? (1 = Yes, 2 = No, 3 = Other/DK)"
+Q14,"For statistical purposes only, would you please tell me in what year you were born?"
+Q15,"Recorded gender (1 = male, 2 = female)"
+caller,Caller ID
+date,Date of survey calls
