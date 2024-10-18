@@ -1,0 +1,29 @@
+﻿Variable,Label
+year,Survey Year
+case_id,Survey Respondent
+weight_cumulative,Survey Weight
+st,State
+pid7,Partisan identity (7 point)
+ideo5,Ideology (5 point)
+gender,Sex
+birthyr,Year of Birth
+race,Race
+educ,Education
+marstat,Marital Status
+faminc,Family Income
+employ,Employment Status
+ownhome,Home Ownership
+economy_retro,"Over the past year, the nation's economy has gotten…"
+approval_pres,President approval
+approval_rep,House Representative approval
+intent_pres_party,Presidential vote choice (asked before the election)
+voted_pres_party,Presidential vote choice (asked after the election)
+intent_turnout_self,Self-reported turnout intention (asked before the election)
+voted_turnout_self,Self-reported turnouot behavior (asked after the election)
+vv_turnout_gvm,Validated voter turnotou (from voter file)
+intent_rep_party,House of Representatives vote choice (asked before the election)
+voted_rep_party,House of Representatives vote choice (asked after the election)
+intent_gov_party,Governor vote choice (asked before the election)
+voted_gov_party,Governor vote choice (asked after the election)
+intent_sen_party,Senate vote choice (asked before the election)
+voted_sen_party,Senate vote choice (asked after the election)
