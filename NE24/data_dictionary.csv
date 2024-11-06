@@ -1,0 +1,25 @@
+﻿Column,Definition
+county,County Name
+precinct,Precinct Name
+number_active_voters_2024,Number of active registered voters in the precinct as of April 2024
+votesBiden_2020,Number of Biden votes in the precinct in 2020
+votesJorgensen_2020,Number of Jorgensen votes in the precinct in 2020
+votesTrump_2020,Number of Trump votes in the precinct in 2020
+average_voter_age,Average age of registered voters in the precinct
+average_voter_income,Average estimated income of registered voters in the precinct
+average_voter_turnout_2022,Percent of voters in the precinct who voted in the 2022 general election
+average_voter_turnout_2020,Percent of voters in the precinct who voted in the 2020 general election
+average_voter_female,Percent of voters in the precinct who are female
+average_voter_reg_democrat,Percent of voters in the precinct who are registered Democrats
+average_voter_reg_republican,Percent of voters in the precinct who are registered Republicans
+average_voter_hispanic,Percent of voters in the precinct who are Hispanic
+average_voter_afam,Percent of voters in the precinct who are African American
+deb_fischer,Number of Fischer (Senate) votes in the precinct in 2024
+dan_osborn,Number of Osborn (Senate) votes in the precinct in 2024
+senate_totals,Total number of Senate votes in the precinct in 2024
+harris_walz,Number of Harris (President) votes in the precinct in 2024
+trump_vance,Number of Trump (President) votes in the precinct in 2024
+chaseoliver,Number of Oliver (President) votes in the precinct in 2024
+cornelwest,Number of West (President) votes in the precinct in 2024
+jillstein,Number of Stein (President) votes in the precinct in 2024
+potus_totals,Total number of President votes in the precinct in 2024
