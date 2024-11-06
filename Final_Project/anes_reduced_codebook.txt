@@ -1,1495 +1,1619 @@
 --------------------------------------------------- 
 --------------ANES CODEBOOK (REDUCED) ------------- 
 --------------------------------------------------- 
+V200001 
+V160001_orig 
+V200011a 
+V200011b 
 V202110x 
-[1] "-9. Refused"                  "-8. Don't know"              
-[3] "-1. Inapplicable"             "1. Joe Biden"                
-[5] "2. Donald Trump"              "3. Jo Jorgensen"             
-[7] "4. Howie Hawkins"             "5. Other candidate {SPECIFY}"
+-9. Refused
+ -8. Don't know
+ -1. Inapplicable
+ 1. Joe Biden
+ 2. Donald Trump
+ 3. Jo Jorgensen
+ 4. Howie Hawkins
+ 5. Other candidate {SPECIFY}
 V202068x 
-[1] "-7. No post-election data, deleted due to incomplete interview"                 
-[2] "-6. No post-election interview"                                                 
-[3] "-2. Missing: turnout not reported or did not vote and registration not reported"
-[4] "0. Not registered and did not vote"                                             
-[5] "1. Registered and did not vote"                                                 
-[6] "2. Voted (regardless of registration status)"                                   
+-7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -2. Missing: turnout not reported or did not vote and registration not reported
+ 0. Not registered and did not vote
+ 1. Registered and did not vote
+ 2. Voted (regardless of registration status)
 V202072 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-1. Inapplicable"                                              
-[5] "1. Yes, voted for President"                                   
-[6] "2. No, didn't vote for President"                              
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -1. Inapplicable
+ 1. Yes, voted for President
+ 2. No, didn't vote for President
 V202119 
- [1] "-9. Refused"                                                   
- [2] "-7. No post-election data, deleted due to incomplete interview"
- [3] "-6. No post-election interview"                                
- [4] "-5. Interview breakoff (sufficient partial IW)"                
- [5] "-1. Inapplicable"                                              
- [6] "1. Not difficult at all"                                       
- [7] "2. A little difficult"                                         
- [8] "3. Moderately difficult"                                       
- [9] "4. Very difficult"                                             
-[10] "5. Extremely difficult"                                        
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. Not difficult at all
+ 2. A little difficult
+ 3. Moderately difficult
+ 4. Very difficult
+ 5. Extremely difficult
 V202120a 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "-1. Inapplicable"                                              
-[6] "0. Not mentioned"                                              
-[7] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V202120b 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "-1. Inapplicable"                                              
-[6] "0. Not mentioned"                                              
-[7] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V202120c 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "-1. Inapplicable"                                              
-[6] "0. Not mentioned"                                              
-[7] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V202120d 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "-1. Inapplicable"                                              
-[6] "0. Not mentioned"                                              
-[7] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V202120e 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "-1. Inapplicable"                                              
-[6] "0. Not mentioned"                                              
-[7] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V202120f 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "-1. Inapplicable"                                              
-[6] "0. Not mentioned"                                              
-[7] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V202120g 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "-1. Inapplicable"                                              
-[6] "0. Not mentioned"                                              
-[7] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V202120h 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "-1. Inapplicable"                                              
-[6] "0. Not mentioned"                                              
-[7] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V202120i 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "-1. Inapplicable"                                              
-[6] "0. Not mentioned"                                              
-[7] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V202120j 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "-1. Inapplicable"                                              
-[6] "0. Not mentioned"                                              
-[7] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V202120k 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "-1. Inapplicable"                                              
-[6] "0. Not mentioned"                                              
-[7] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V202120z 
-[1] "-2. Open-end responses available in separate file"
+-2. Open-end responses available in separate file
 V202122 
-[1] "-7. No post-election data, deleted due to incomplete interview"
-[2] "-6. No post-election interview"                                
-[3] "-5. Interview breakoff (sufficient partial IW)"                
-[4] "-1. Inapplicable"                                              
-[5] "1. 0-15 minutes"                                               
-[6] "2. 16-30 minutes"                                              
-[7] "3. 31-59 minutes"                                              
-[8] "4. 1-2 hours"                                                  
-[9] "5. More than 2 hours"                                          
+-7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. 0-15 minutes
+ 2. 16-30 minutes
+ 3. 31-59 minutes
+ 4. 1-2 hours
+ 5. More than 2 hours
 V202123 
- [1] "-9. Refused"                                                    
- [2] "-8. Don't know"                                                 
- [3] "-7. No post-election data, deleted due to incomplete interview" 
- [4] "-6. No post-election interview"                                 
- [5] "-5. Interview breakoff (sufficient partial IW)"                 
- [6] "-1. Inapplicable"                                               
- [7] "1. I forgot"                                                    
- [8] "2. I'm not interested"                                          
- [9] "3. Too busy"                                                    
-[10] "4. Did not like the candidates"                                 
-[11] "5. I am not registered"                                         
-[12] "6. I did not have the correct form of identification"           
-[13] "7. Out of town"                                                 
-[14] "8. Sick or disabled"                                            
-[15] "9. Transportation"                                              
-[16] "10. Bad weather"                                                
-[17] "11. The line at the polls was too long"                         
-[18] "12. I was not allowed to vote at the polls, even though I tried"
-[19] "13. I requested but did not receive an absentee ballot"         
-[20] "14. I did not know where to vote"                               
-[21] "15. I did not feel that I knew enough about the choices"        
-[22] "16. Other {SPECIFY}"                                            
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. I forgot
+ 2. I'm not interested
+ 3. Too busy
+ 4. Did not like the candidates
+ 5. I am not registered
+ 6. I did not have the correct form of identification
+ 7. Out of town
+ 8. Sick or disabled
+ 9. Transportation
+ 10. Bad weather
+ 11. The line at the polls was too long
+ 12. I was not allowed to vote at the polls, even though I tried
+ 13. I requested but did not receive an absentee ballot
+ 14. I did not know where to vote
+ 15. I did not feel that I knew enough about the choices
+ 16. Other {SPECIFY}
 V202123z 
-[1] "-2. Open-end responses available in separate file"
+-2. Open-end responses available in separate file
 V202124 
- [1] "-9. Refused"                                                    
- [2] "-8. Don't know"                                                 
- [3] "-7. No post-election data, deleted due to incomplete interview" 
- [4] "-6. No post-election interview"                                 
- [5] "-5. Interview breakoff (sufficient partial IW)"                 
- [6] "-1. Inapplicable"                                               
- [7] "1. I forgot"                                                    
- [8] "2. I'm not interested"                                          
- [9] "3. Too busy"                                                    
-[10] "4. Did not like the candidates"                                 
-[11] "5. I am not registered"                                         
-[12] "6. I did not have the correct form of identification"           
-[13] "7. Out of town"                                                 
-[14] "8. Sick or disabled"                                            
-[15] "9. Transportation"                                              
-[16] "10. Bad weather"                                                
-[17] "11. The line at the polls was too long"                         
-[18] "12. I was not allowed to vote at the polls, even though I tried"
-[19] "13. I requested but did not receive an absentee ballot"         
-[20] "14. I did not know where to vote"                               
-[21] "15. I did not feel that I knew enough about the choices"        
-[22] "16. Other {SPECIFY}"                                            
-[23] " 17. There were no other reasons {VOL}"                         
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. I forgot
+ 2. I'm not interested
+ 3. Too busy
+ 4. Did not like the candidates
+ 5. I am not registered
+ 6. I did not have the correct form of identification
+ 7. Out of town
+ 8. Sick or disabled
+ 9. Transportation
+ 10. Bad weather
+ 11. The line at the polls was too long
+ 12. I was not allowed to vote at the polls, even though I tried
+ 13. I requested but did not receive an absentee ballot
+ 14. I did not know where to vote
+ 15. I did not feel that I knew enough about the choices
+ 16. Other {SPECIFY}
+  17. There were no other reasons {VOL}
 V202124z 
-[1] "-2. Open-end responses available in separate file"
+-2. Open-end responses available in separate file
 V202125 
-[1] "-2. Open-end responses available in separate file"
+-2. Open-end responses available in separate file
 V201231x 
-[1] "-9. Refused"                   "-8. Don't know"               
-[3] "1. Strong Democrat"            "2. Not very strong Democrat"  
-[5] "3. Independent-Democrat"       "4. Independent"               
-[7] "5. Independent-Republican"     "6. Not very strong Republican"
-[9] "7. Strong Republican"         
+-9. Refused
+ -8. Don't know
+ 1. Strong Democrat
+ 2. Not very strong Democrat
+ 3. Independent-Democrat
+ 4. Independent
+ 5. Independent-Republican
+ 6. Not very strong Republican
+ 7. Strong Republican
 V201549x 
-[1] "-9. Refused"                                                           
-[2] "-8. Don't know"                                                        
-[3] "1. White, non-Hispanic"                                                
-[4] "2. Black, non-Hispanic"                                                
-[5] "3. Hispanic"                                                           
-[6] "4. Asian or Native Hawaiian/other Pacific Islander, non-Hispanic alone"
-[7] "5. Native American/Alaska Native or other race, non-Hispanic alone"    
-[8] "6. Multiple races, non-Hispanic"                                       
+-9. Refused
+ -8. Don't know
+ 1. White, non-Hispanic
+ 2. Black, non-Hispanic
+ 3. Hispanic
+ 4. Asian or Native Hawaiian/other Pacific Islander, non-Hispanic alone
+ 5. Native American/Alaska Native or other race, non-Hispanic alone
+ 6. Multiple races, non-Hispanic
 V201600 
-[1] "-9. Refused" "1. Male"     "2. Female"  
+-9. Refused
+ 1. Male
+ 2. Female
 V201511x 
-[1] "-9. Refused"                                                 
-[2] "-8. Don't know"                                              
-[3] "-2. Missing, other specify not coded for preliminary release"
-[4] "1. Less than high school credential"                         
-[5] "2. High school credential"                                   
-[6] "3. Some post-high school, no bachelor's degree"              
-[7] "4. Bachelor's degree"                                        
-[8] "5. Graduate degree"                                          
+-9. Refused
+ -8. Don't know
+ -2. Missing, other specify not coded for preliminary release
+ 1. Less than high school credential
+ 2. High school credential
+ 3. Some post-high school, no bachelor's degree
+ 4. Bachelor's degree
+ 5. Graduate degree
 V201601 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "1. Heterosexual or straight"                   
-[4] "2. Homosexual or gay (or lesbian)"             
-[5] "3. Bisexual"                                   
-[6] "4. Something else {SPECIFY}"                   
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ 1. Heterosexual or straight
+ 2. Homosexual or gay (or lesbian)
+ 3. Bisexual
+ 4. Something else {SPECIFY}
 V201200 
- [1] "-9. Refused"                         "-8. Don't know"                     
- [3] "1. Extremely liberal"                "2. Liberal"                         
- [5] "3. Slightly liberal"                 "4. Moderate; middle of the road"    
- [7] "5. Slightly conservative"            "6. Conservative"                    
- [9] "7. Extremely conservative"           "99. Haven't thought much about this"
+-9. Refused
+ -8. Don't know
+ 1. Extremely liberal
+ 2. Liberal
+ 3. Slightly liberal
+ 4. Moderate; middle of the road
+ 5. Slightly conservative
+ 6. Conservative
+ 7. Extremely conservative
+ 99. Haven't thought much about this
 V201202 
-[1] "-9. Refused"                     "-8. Don't know"                 
-[3] "1. Extremely liberal"            "2. Liberal"                     
-[5] "3. Slightly liberal"             "4. Moderate; middle of the road"
-[7] "5. Slightly conservative"        "6. Conservative"                
-[9] "7. Extremely conservative"      
+-9. Refused
+ -8. Don't know
+ 1. Extremely liberal
+ 2. Liberal
+ 3. Slightly liberal
+ 4. Moderate; middle of the road
+ 5. Slightly conservative
+ 6. Conservative
+ 7. Extremely conservative
 V201203 
- [1] "-9. Refused"                     "-8. Don't know"                 
- [3] "-4. Technical error"             "1. Extremely liberal"           
- [5] "2. Liberal"                      "3. Slightly liberal"            
- [7] "4. Moderate; middle of the road" "5. Slightly conservative"       
- [9] "6. Conservative"                 "7. Extremely conservative"      
+-9. Refused
+ -8. Don't know
+ -4. Technical error
+ 1. Extremely liberal
+ 2. Liberal
+ 3. Slightly liberal
+ 4. Moderate; middle of the road
+ 5. Slightly conservative
+ 6. Conservative
+ 7. Extremely conservative
 V201249 
- [1] "-9. Refused"                          "-8. Don't know"                      
- [3] "1. Greatly decrease defense spending" "2."                                  
- [5] "3."                                   "4."                                  
- [7] "5."                                   "6."                                  
- [9] "7. Greatly increase defense spending" "99. Haven't thought much about this" 
+-9. Refused
+ -8. Don't know
+ 1. Greatly decrease defense spending
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Greatly increase defense spending
+ 99. Haven't thought much about this
 V201250 
-[1] "-9. Refused"                          "-8. Don't know"                      
-[3] "1. Greatly decrease defense spending" "2."                                  
-[5] "3."                                   "4."                                  
-[7] "5."                                   "6."                                  
-[9] "7. Greatly increase defense spending"
+-9. Refused
+ -8. Don't know
+ 1. Greatly decrease defense spending
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Greatly increase defense spending
 V201251 
-[1] "-9. Refused"                          "-8. Don't know"                      
-[3] "1. Greatly decrease defense spending" "2."                                  
-[5] "3."                                   "4."                                  
-[7] "5."                                   "6."                                  
-[9] "7. Greatly increase defense spending"
+-9. Refused
+ -8. Don't know
+ 1. Greatly decrease defense spending
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Greatly increase defense spending
 V201252 
- [1] "-9. Refused"                         "-8. Don't know"                     
- [3] "1. Government insurance plan"        "2."                                 
- [5] "3."                                  "4."                                 
- [7] "5."                                  "6."                                 
- [9] "7. Private insurance plan"           "99. Haven't thought much about this"
+-9. Refused
+ -8. Don't know
+ 1. Government insurance plan
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Private insurance plan
+ 99. Haven't thought much about this
 V201253 
-[1] "-9. Refused"                  "-8. Don't know"              
-[3] "1. Government insurance plan" "2."                          
-[5] "3."                           "4."                          
-[7] "5."                           "6."                          
-[9] "7. Private insurance plan"   
+-9. Refused
+ -8. Don't know
+ 1. Government insurance plan
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Private insurance plan
 V201254 
-[1] "-9. Refused"                  "-8. Don't know"              
-[3] "1. Government insurance plan" "2."                          
-[5] "3."                           "4."                          
-[7] "5."                           "6."                          
-[9] "7. Private insurance plan"   
+-9. Refused
+ -8. Don't know
+ 1. Government insurance plan
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Private insurance plan
 V201255 
- [1] "-9. Refused"                                            
- [2] "-8. Don't know"                                         
- [3] "1. Government should see to jobs and standard of living"
- [4] "2."                                                     
- [5] "3."                                                     
- [6] "4."                                                     
- [7] "5."                                                     
- [8] "6."                                                     
- [9] "7. Government should let each person get ahead on own"  
-[10] "99. Haven't thought much about this"                    
+-9. Refused
+ -8. Don't know
+ 1. Government should see to jobs and standard of living
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Government should let each person get ahead on own
+ 99. Haven't thought much about this
 V201256 
-[1] "-9. Refused"                                            
-[2] "-8. Don't know"                                         
-[3] "1. Government should see to jobs and standard of living"
-[4] "2."                                                     
-[5] "3."                                                     
-[6] "4."                                                     
-[7] "5."                                                     
-[8] "6."                                                     
-[9] "7. Government should let each person get ahead on own"  
+-9. Refused
+ -8. Don't know
+ 1. Government should see to jobs and standard of living
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Government should let each person get ahead on own
 V201257 
-[1] "-9. Refused"                                            
-[2] "-8. Don't know"                                         
-[3] "1. Government should see to jobs and standard of living"
-[4] "2."                                                     
-[5] "3."                                                     
-[6] "4."                                                     
-[7] "5."                                                     
-[8] "6."                                                     
-[9] "7. Government should let each person get ahead on own"  
+-9. Refused
+ -8. Don't know
+ 1. Government should see to jobs and standard of living
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Government should let each person get ahead on own
 V201258 
- [1] "-9. Refused"                         "-8. Don't know"                     
- [3] "1. Government should help blacks"    "2."                                 
- [5] "3."                                  "4."                                 
- [7] "5."                                  "6."                                 
- [9] "7. Blacks should help themselves"    "99. Haven't thought much about this"
+-9. Refused
+ -8. Don't know
+ 1. Government should help blacks
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Blacks should help themselves
+ 99. Haven't thought much about this
 V201259 
-[1] "-9. Refused"                      "-8. Don't know"                  
-[3] "1. Government should help blacks" "2."                              
-[5] "3."                               "4."                              
-[7] "5."                               "6."                              
-[9] "7. Blacks should help themselves"
+-9. Refused
+ -8. Don't know
+ 1. Government should help blacks
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Blacks should help themselves
 V201260 
-[1] "-9. Refused"                      "-8. Don't know"                  
-[3] "1. Government should help blacks" "2."                              
-[5] "3."                               "4."                              
-[7] "5."                               "6."                              
-[9] "7. Blacks should help themselves"
+-9. Refused
+ -8. Don't know
+ 1. Government should help blacks
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Blacks should help themselves
 V201262 
- [1] "-9. Refused"                                                                
- [2] "-8. Don't know"                                                             
- [3] "1. Tougher regulations on business needed to protect environment"           
- [4] "2."                                                                         
- [5] "3."                                                                         
- [6] "4."                                                                         
- [7] "5."                                                                         
- [8] "6."                                                                         
- [9] "7. Regulations to protect environment already too much a burden on business"
-[10] "99. Haven't thought much about this"                                        
+-9. Refused
+ -8. Don't know
+ 1. Tougher regulations on business needed to protect environment
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Regulations to protect environment already too much a burden on business
+ 99. Haven't thought much about this
 V201263 
-[1] "-9. Refused"                                                                
-[2] "-8. Don't know"                                                             
-[3] "1. Tougher regulations on business needed to protect environment"           
-[4] "2."                                                                         
-[5] "3."                                                                         
-[6] "4."                                                                         
-[7] "5."                                                                         
-[8] "6."                                                                         
-[9] "7. Regulations to protect environment already too much a burden on business"
+-9. Refused
+ -8. Don't know
+ 1. Tougher regulations on business needed to protect environment
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Regulations to protect environment already too much a burden on business
 V201264 
-[1] "-9. Refused"                                                                
-[2] "-8. Don't know"                                                             
-[3] "1. Tougher regulations on business needed to protect environment"           
-[4] "2."                                                                         
-[5] "3."                                                                         
-[6] "4."                                                                         
-[7] "5."                                                                         
-[8] "6."                                                                         
-[9] "7. Regulations to protect environment already too much a burden on business"
+-9. Refused
+ -8. Don't know
+ 1. Tougher regulations on business needed to protect environment
+ 2.
+ 3.
+ 4.
+ 5.
+ 6.
+ 7. Regulations to protect environment already too much a burden on business
 V201336 
-[1] "-9. Refused"                                                                                                         
-[2] "-8. Don't know"                                                                                                      
-[3] "1. By law, abortion should never be permitted"                                                                       
-[4] "2. The law should permit abortion only in case of rape, incest, or when the woman's life is in danger"               
-[5] "3. The law should permit abortion other than for rape/incest/danger to woman but only after need clearly established"
-[6] "4. By law, a woman should always be able to obtain an abortion as a matter of personal choice"                       
-[7] "5. Other {SPECIFY}"                                                                                                  
+-9. Refused
+ -8. Don't know
+ 1. By law, abortion should never be permitted
+ 2. The law should permit abortion only in case of rape, incest, or when the woman's life is in danger
+ 3. The law should permit abortion other than for rape/incest/danger to woman but only after need clearly established
+ 4. By law, a woman should always be able to obtain an abortion as a matter of personal choice
+ 5. Other {SPECIFY}
 V201338 
-[1] "-9. Refused"                                                                                                         
-[2] "-8. Don't know"                                                                                                      
-[3] "1. By law, abortion should never be permitted"                                                                       
-[4] "2. The law should permit abortion only in case of rape, incest, or when the woman's life is in danger"               
-[5] "3. The law should permit abortion other than for rape/incest/danger to woman but only after need clearly established"
-[6] "4. By law, a woman should always be able to obtain an abortion as a matter of personal choice"                       
+-9. Refused
+ -8. Don't know
+ 1. By law, abortion should never be permitted
+ 2. The law should permit abortion only in case of rape, incest, or when the woman's life is in danger
+ 3. The law should permit abortion other than for rape/incest/danger to woman but only after need clearly established
+ 4. By law, a woman should always be able to obtain an abortion as a matter of personal choice
 V201339 
-[1] "-9. Refused"                                                                                                         
-[2] "-8. Don't know"                                                                                                      
-[3] "1. By law, abortion should never be permitted"                                                                       
-[4] "2. The law should permit abortion only in case of rape, incest, or when the woman's life is in danger"               
-[5] "3. The law should permit abortion other than for rape/incest/danger to woman but only after need clearly established"
-[6] "4. By law, a woman should always be able to obtain an abortion as a matter of personal choice"                       
+-9. Refused
+ -8. Don't know
+ 1. By law, abortion should never be permitted
+ 2. The law should permit abortion only in case of rape, incest, or when the woman's life is in danger
+ 3. The law should permit abortion other than for rape/incest/danger to woman but only after need clearly established
+ 4. By law, a woman should always be able to obtain an abortion as a matter of personal choice
 V201239 
-[1] "-9. Refused"                                  
-[2] "-8. Don't know"                               
-[3] "1. Democrats would do a much better job"      
-[4] "2. Democrats would do a somewhat better job"  
-[5] "3. Not much difference between them"          
-[6] "4. Republicans would do a somewhat better job"
-[7] "5. Republicans would do a much better job"    
+-9. Refused
+ -8. Don't know
+ 1. Democrats would do a much better job
+ 2. Democrats would do a somewhat better job
+ 3. Not much difference between them
+ 4. Republicans would do a somewhat better job
+ 5. Republicans would do a much better job
 V201240 
-[1] "-9. Refused"                                  
-[2] "-8. Don't know"                               
-[3] "1. Democrats would do a much better job"      
-[4] "2. Democrats would do a somewhat better job"  
-[5] "3. Not much difference between them"          
-[6] "4. Republicans would do a somewhat better job"
-[7] "5. Republicans would do a much better job"    
+-9. Refused
+ -8. Don't know
+ 1. Democrats would do a much better job
+ 2. Democrats would do a somewhat better job
+ 3. Not much difference between them
+ 4. Republicans would do a somewhat better job
+ 5. Republicans would do a much better job
 V201241 
-[1] "-9. Refused"                                  
-[2] "-8. Don't know"                               
-[3] "1. Democrats would do a much better job"      
-[4] "2. Democrats would do a somewhat better job"  
-[5] "3. Not much difference between them"          
-[6] "4. Republicans would do a somewhat better job"
-[7] "5. Republicans would do a much better job"    
+-9. Refused
+ -8. Don't know
+ 1. Democrats would do a much better job
+ 2. Democrats would do a somewhat better job
+ 3. Not much difference between them
+ 4. Republicans would do a somewhat better job
+ 5. Republicans would do a much better job
 V201242 
-[1] "-9. Refused"                                  
-[2] "-8. Don't know"                               
-[3] "1. Democrats would do a much better job"      
-[4] "2. Democrats would do a somewhat better job"  
-[5] "3. Not much difference between them"          
-[6] "4. Republicans would do a somewhat better job"
-[7] "5. Republicans would do a much better job"    
+-9. Refused
+ -8. Don't know
+ 1. Democrats would do a much better job
+ 2. Democrats would do a somewhat better job
+ 3. Not much difference between them
+ 4. Republicans would do a somewhat better job
+ 5. Republicans would do a much better job
 V201243 
-[1] "-9. Refused"                                  
-[2] "-8. Don't know"                               
-[3] "1. Democrats would do a much better job"      
-[4] "2. Democrats would do a somewhat better job"  
-[5] "3. Not much difference between them"          
-[6] "4. Republicans would do a somewhat better job"
-[7] "5. Republicans would do a much better job"    
+-9. Refused
+ -8. Don't know
+ 1. Democrats would do a much better job
+ 2. Democrats would do a somewhat better job
+ 3. Not much difference between them
+ 4. Republicans would do a somewhat better job
+ 5. Republicans would do a much better job
 V201244 
-[1] "-9. Refused"                                  
-[2] "-8. Don't know"                               
-[3] "1. Democrats would do a much better job"      
-[4] "2. Democrats would do a somewhat better job"  
-[5] "3. Not much difference between them"          
-[6] "4. Republicans would do a somewhat better job"
-[7] "5. Republicans would do a much better job"    
+-9. Refused
+ -8. Don't know
+ 1. Democrats would do a much better job
+ 2. Democrats would do a somewhat better job
+ 3. Not much difference between them
+ 4. Republicans would do a somewhat better job
+ 5. Republicans would do a much better job
 V201629a 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201629b 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201629c 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201629d 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201629e 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630a 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630b 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630c 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630d 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630e 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630f 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630g 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630h 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630i 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630j 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630k 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630m 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630n 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630p 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630q 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630r 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201630s 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631a 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631b 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631c 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631d 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631e 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631f 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631g 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631h 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631i 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631j 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631k 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631m 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631n 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631p 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631q 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631r 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201631s 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632a 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632b 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632c 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632d 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632e 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632f 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632g 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632h 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632i 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632j 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632k 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632m 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632n 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632p 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632q 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632r 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201632s 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633a 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633b 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633c 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633d 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633e 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633f 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633g 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633h 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633i 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633j 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633k 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633m 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633n 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633p 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633q 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201633r 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634a 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634b 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634c 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634d 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634e 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634f 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634g 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634h 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634i 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634j 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634k 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634m 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634n 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634p 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634q 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634r 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V201634s 
-[1] "-9. Refused"                                   
-[2] "-5. Interview breakoff (sufficient partial IW)"
-[3] "-1. Inapplicable"                              
-[4] "0. Not mentioned"                              
-[5] "1. Mentioned"                                  
+-9. Refused
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 0. Not mentioned
+ 1. Mentioned
 V202541a 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "0. Not mentioned"                                              
-[6] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 0. Not mentioned
+ 1. Mentioned
 V202541b 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "0. Not mentioned"                                              
-[6] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 0. Not mentioned
+ 1. Mentioned
 V202541c 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "0. Not mentioned"                                              
-[6] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 0. Not mentioned
+ 1. Mentioned
 V202541d 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "0. Not mentioned"                                              
-[6] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 0. Not mentioned
+ 1. Mentioned
 V202541e 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "0. Not mentioned"                                              
-[6] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 0. Not mentioned
+ 1. Mentioned
 V202541f 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "0. Not mentioned"                                              
-[6] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 0. Not mentioned
+ 1. Mentioned
 V202541g 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "0. Not mentioned"                                              
-[6] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 0. Not mentioned
+ 1. Mentioned
 V202541h 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "0. Not mentioned"                                              
-[6] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 0. Not mentioned
+ 1. Mentioned
 V202541i 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "0. Not mentioned"                                              
-[6] "1. Mentioned"                                                  
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 0. Not mentioned
+ 1. Mentioned
 V202542 
- [1] "-9. Refused"                                                   
- [2] "-7. No post-election data, deleted due to incomplete interview"
- [3] "-6. No post-election interview"                                
- [4] "-5. Interview breakoff (sufficient partial IW)"                
- [5] "-1. Inapplicable"                                              
- [6] "1. Many times every day"                                       
- [7] "2. A few times every day"                                      
- [8] "3. About once a day"                                           
- [9] "4. A few times each week"                                      
-[10] "5. About once a week"                                          
-[11] "6. Once or twice a month"                                      
-[12] "7. Less than once a month"                                     
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. Many times every day
+ 2. A few times every day
+ 3. About once a day
+ 4. A few times each week
+ 5. About once a week
+ 6. Once or twice a month
+ 7. Less than once a month
 V202543 
- [1] "-9. Refused"                                                   
- [2] "-7. No post-election data, deleted due to incomplete interview"
- [3] "-6. No post-election interview"                                
- [4] "-5. Interview breakoff (sufficient partial IW)"                
- [5] "-1. Inapplicable"                                              
- [6] "1. Always"                                                     
- [7] "2. Most of the time"                                           
- [8] "3. About half of the time"                                     
- [9] "4. Sometimes"                                                  
-[10] "5. Never"                                                      
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. Always
+ 2. Most of the time
+ 3. About half of the time
+ 4. Sometimes
+ 5. Never
 V202544 
- [1] "-9. Refused"                                                   
- [2] "-7. No post-election data, deleted due to incomplete interview"
- [3] "-6. No post-election interview"                                
- [4] "-5. Interview breakoff (sufficient partial IW)"                
- [5] "-1. Inapplicable"                                              
- [6] "1. Many times every day"                                       
- [7] "2. A few times every day"                                      
- [8] "3. About once a day"                                           
- [9] "4. A few times each week"                                      
-[10] "5. About once a week"                                          
-[11] "6. Once or twice a month"                                      
-[12] "7. Less than once a month"                                     
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. Many times every day
+ 2. A few times every day
+ 3. About once a day
+ 4. A few times each week
+ 5. About once a week
+ 6. Once or twice a month
+ 7. Less than once a month
 V202545 
- [1] "-9. Refused"                                                   
- [2] "-7. No post-election data, deleted due to incomplete interview"
- [3] "-6. No post-election interview"                                
- [4] "-5. Interview breakoff (sufficient partial IW)"                
- [5] "-1. Inapplicable"                                              
- [6] "1. Always"                                                     
- [7] "2. Most of the time"                                           
- [8] "3. About half of the time"                                     
- [9] "4. Sometimes"                                                  
-[10] "5. Never"                                                      
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. Always
+ 2. Most of the time
+ 3. About half of the time
+ 4. Sometimes
+ 5. Never
 V202546 
- [1] "-7. No post-election data, deleted due to incomplete interview"
- [2] "-6. No post-election interview"                                
- [3] "-5. Interview breakoff (sufficient partial IW)"                
- [4] "-1. Inapplicable"                                              
- [5] "1. Many times every day"                                       
- [6] "2. A few times every day"                                      
- [7] "3. About once a day"                                           
- [8] "4. A few times each week"                                      
- [9] "5. About once a week"                                          
-[10] "6. Once or twice a month"                                      
-[11] "7. Less than once a month"                                     
+-7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. Many times every day
+ 2. A few times every day
+ 3. About once a day
+ 4. A few times each week
+ 5. About once a week
+ 6. Once or twice a month
+ 7. Less than once a month
 V202547 
- [1] "-9. Refused"                                                   
- [2] "-7. No post-election data, deleted due to incomplete interview"
- [3] "-6. No post-election interview"                                
- [4] "-5. Interview breakoff (sufficient partial IW)"                
- [5] "-1. Inapplicable"                                              
- [6] "1. Always"                                                     
- [7] "2. Most of the time"                                           
- [8] "3. About half of the time"                                     
- [9] "4. Sometimes"                                                  
-[10] "5. Never"                                                      
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. Always
+ 2. Most of the time
+ 3. About half of the time
+ 4. Sometimes
+ 5. Never
 V202005 
-[1] "-9. Refused"                                                               
-[2] "-8. Don't know"                                                            
-[3] "-7. No post-election data, deleted due to incomplete interview"            
-[4] "-6. No post-election interview"                                            
-[5] "-1. Inapplicable"                                                          
-[6] "1. Someone from the political parties talked to me about the 2020 campaign"
-[7] "2. No one from the political parties talked to me about the 2020 campaign" 
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -1. Inapplicable
+ 1. Someone from the political parties talked to me about the 2020 campaign
+ 2. No one from the political parties talked to me about the 2020 campaign
 V202006 
-[1] "-9. Refused"                                                   
-[2] "-8. Don't know"                                                
-[3] "-7. No post-election data, deleted due to incomplete interview"
-[4] "-6. No post-election interview"                                
-[5] "-1. Inapplicable"                                              
-[6] "1. Democrats"                                                  
-[7] "2. Republicans"                                                
-[8] "3. Both {VOL}"                                                 
-[9] "5. Other {SPECIFY}"                                            
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -1. Inapplicable
+ 1. Democrats
+ 2. Republicans
+ 3. Both {VOL}
+ 5. Other {SPECIFY}
 V202007 
-[1] "-9. Refused"                                                   
-[2] "-8. Don't know"                                                
-[3] "-7. No post-election data, deleted due to incomplete interview"
-[4] "-6. No post-election interview"                                
-[5] "1. Yes"                                                        
-[6] "2. No"                                                         
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes
+ 2. No
 V202008 
-[1] "-8. Don't know"                                                
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "1. Yes, someone did"                                           
-[5] "2. No, no one did"                                             
+-8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes, someone did
+ 2. No, no one did
 V202009 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-1. Inapplicable"                                              
-[5] "1. Yes"                                                        
-[6] "2. No"                                                         
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -1. Inapplicable
+ 1. Yes
+ 2. No
 V202013 
-[1] "-7. No post-election data, deleted due to incomplete interview"
-[2] "-6. No post-election interview"                                
-[3] "1. Yes"                                                        
-[4] "2. No"                                                         
+-7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes
+ 2. No
 V202014 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "1. Yes"                                                        
-[5] "2. No"                                                         
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes
+ 2. No
 V202015 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "1. Yes"                                                        
-[5] "2. No"                                                         
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes
+ 2. No
 V202016 
-[1] "-7. No post-election data, deleted due to incomplete interview"
-[2] "-6. No post-election interview"                                
-[3] "1. Yes"                                                        
-[4] "2. No"                                                         
+-7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes
+ 2. No
 V202017 
-[1] "-7. No post-election data, deleted due to incomplete interview"
-[2] "-6. No post-election interview"                                
-[3] "1. Yes"                                                        
-[4] "2. No"                                                         
+-7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes
+ 2. No
 V202019 
-[1] "-9. Refused"                                                   
-[2] "-8. Don't know"                                                
-[3] "-7. No post-election data, deleted due to incomplete interview"
-[4] "-6. No post-election interview"                                
-[5] "1. Yes"                                                        
-[6] "2. No"                                                         
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes
+ 2. No
 V202021 
-[1] "-9. Refused"                                                   
-[2] "-8. Don't know"                                                
-[3] "-7. No post-election data, deleted due to incomplete interview"
-[4] "-6. No post-election interview"                                
-[5] "1. Yes"                                                        
-[6] "2. No"                                                         
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes
+ 2. No
 V202022 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "1. Yes"                                                        
-[5] "2. No"                                                         
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes
+ 2. No
 V202023 
- [1] "-9. Refused"                                                   
- [2] "-7. No post-election data, deleted due to incomplete interview"
- [3] "-6. No post-election interview"                                
- [4] "-1. Inapplicable"                                              
- [5] "0. Zero days"                                                  
- [6] "1. One day"                                                    
- [7] "2. Two days"                                                   
- [8] "3. Three days"                                                 
- [9] "4. Four days"                                                  
-[10] "5. Five days"                                                  
-[11] "6. Six days"                                                   
-[12] "7. Seven days"                                                 
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -1. Inapplicable
+ 0. Zero days
+ 1. One day
+ 2. Two days
+ 3. Three days
+ 4. Four days
+ 5. Five days
+ 6. Six days
+ 7. Seven days
 V202024 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "1. Have done this in past 12 months"                           
-[5] "2. Have not done this in the past 12 months"                   
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Have done this in past 12 months
+ 2. Have not done this in the past 12 months
 V202025 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "1. Have done this in past 12 months"                           
-[5] "2. Have not done this in the past 12 months"                   
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Have done this in past 12 months
+ 2. Have not done this in the past 12 months
 V202026 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "1. Have done this in past 12 months"                           
-[5] "2. Have not done this in the past 12 months"                   
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Have done this in past 12 months
+ 2. Have not done this in the past 12 months
 V202027 
-[1] "-9. Refused"                                                   
-[2] "-8. Don't know"                                                
-[3] "-7. No post-election data, deleted due to incomplete interview"
-[4] "-6. No post-election interview"                                
-[5] "1. Have done this in past 12 months"                           
-[6] "2. Have not done this in the past 12 months"                   
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Have done this in past 12 months
+ 2. Have not done this in the past 12 months
 V202028 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "1. Have done this in past 12 months"                           
-[5] "2. Have not done this in the past 12 months"                   
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Have done this in past 12 months
+ 2. Have not done this in the past 12 months
 V202029 
-[1] "-9. Refused"                                                   
-[2] "-8. Don't know"                                                
-[3] "-7. No post-election data, deleted due to incomplete interview"
-[4] "-6. No post-election interview"                                
-[5] "1. Have done this in past 12 months"                           
-[6] "2. Have not done this in the past 12 months"                   
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Have done this in past 12 months
+ 2. Have not done this in the past 12 months
 V202030 
-[1] "-9. Refused"                                                   
-[2] "-8. Don't know"                                                
-[3] "-7. No post-election data, deleted due to incomplete interview"
-[4] "-6. No post-election interview"                                
-[5] "1. Have done this in past 12 months"                           
-[6] "2. Have not done this in the past 12 months"                   
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Have done this in past 12 months
+ 2. Have not done this in the past 12 months
 V202031 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "1. Yes, have done this in the past 12 months"                  
-[5] "2. No, have not done this"                                     
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes, have done this in the past 12 months
+ 2. No, have not done this
 V202032 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "1. Yes, have done this in the past 12 months"                  
-[5] "2. No, have not done this"                                     
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes, have done this in the past 12 months
+ 2. No, have not done this
 V202033 
-[1] "-7. No post-election data, deleted due to incomplete interview"
-[2] "-6. No post-election interview"                                
-[3] "1. Yes, have done this in the past 12 months"                  
-[4] "2. No, have not done this"                                     
+-7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes, have done this in the past 12 months
+ 2. No, have not done this
 V202034 
-[1] "-8. Don't know"                                                
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "1. Yes, have done this in the past 12 months"                  
-[5] "2. No, have not done this"                                     
+-8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ 1. Yes, have done this in the past 12 months
+ 2. No, have not done this
 V201233 
-[1] "-9. Refused"            "-8. Don't know"         "1. Always"             
-[4] "2. Most of the time"    "3. About half the time" "4. Some of the time"   
-[7] "5. Never"              
+-9. Refused
+ -8. Don't know
+ 1. Always
+ 2. Most of the time
+ 3. About half the time
+ 4. Some of the time
+ 5. Never
 V201234 
-[1] "-9. Refused"                          "-8. Don't know"                      
-[3] "1. Run by a few big interests"        "2. For the benefit of all the people"
+-9. Refused
+ -8. Don't know
+ 1. Run by a few big interests
+ 2. For the benefit of all the people
 V202304 
- [1] "-9. Refused"                                                   
- [2] "-8. Don't know"                                                
- [3] "-7. No post-election data, deleted due to incomplete interview"
- [4] "-6. No post-election interview"                                
- [5] "-5. Interview breakoff (sufficient partial IW)"                
- [6] "1. Not at all well"                                            
- [7] "2. Not very well"                                              
- [8] "3. Somewhat well"                                              
- [9] "4. Very well"                                                  
-[10] "5. Extremely well"                                             
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 1. Not at all well
+ 2. Not very well
+ 3. Somewhat well
+ 4. Very well
+ 5. Extremely well
 V202305 
- [1] "-9. Refused"                                                   
- [2] "-8. Don't know"                                                
- [3] "-7. No post-election data, deleted due to incomplete interview"
- [4] "-6. No post-election interview"                                
- [5] "-5. Interview breakoff (sufficient partial IW)"                
- [6] "1. Not at all well"                                            
- [7] "2. Not very well"                                              
- [8] "3. Somewhat well"                                              
- [9] "4. Very well"                                                  
-[10] "5. Extremely well"                                             
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 1. Not at all well
+ 2. Not very well
+ 3. Somewhat well
+ 4. Very well
+ 5. Extremely well
 V202308x 
-[1] "-7. No post-election data, deleted due to incomplete interview"
-[2] "-6. No post-election interview"                                
-[3] "-5. Interview breakoff (sufficient partial IW)"                
-[4] "-2. DK/RF in V202306 or V202307"                               
-[5] "1. Trust ordinary people much more"                            
-[6] "2. Trust ordinary people somewhat more"                        
-[7] "3. Trust both the same"                                        
-[8] "4. Trust experts somwhat more"                                 
-[9] "5. Trust experts much more"                                    
+-7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -2. DK/RF in V202306 or V202307
+ 1. Trust ordinary people much more
+ 2. Trust ordinary people somewhat more
+ 3. Trust both the same
+ 4. Trust experts somwhat more
+ 5. Trust experts much more
 V202309 
-[1] "-9. Refused"                                                   
-[2] "-7. No post-election data, deleted due to incomplete interview"
-[3] "-6. No post-election interview"                                
-[4] "-5. Interview breakoff (sufficient partial IW)"                
-[5] "1. Not at all"                                                 
-[6] "2. A little"                                                   
-[7] "3. A moderate amount"                                          
-[8] "4. A lot"                                                      
-[9] "5. A great deal"                                               
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 1. Not at all
+ 2. A little
+ 3. A moderate amount
+ 4. A lot
+ 5. A great deal
 V202311 
- [1] "-9. Refused"                                                   
- [2] "-8. Don't know"                                                
- [3] "-7. No post-election data, deleted due to incomplete interview"
- [4] "-6. No post-election interview"                                
- [5] "-5. Interview breakoff (sufficient partial IW)"                
- [6] "1. Not at all"                                                 
- [7] "2. Not very well"                                              
- [8] "3. Somewhat well"                                              
- [9] "4. Very well"                                                  
-[10] "5. Extremely well"                                             
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 1. Not at all
+ 2. Not very well
+ 3. Somewhat well
+ 4. Very well
+ 5. Extremely well
 V202312 
- [1] "-9. Refused"                                                   
- [2] "-8. Don't know"                                                
- [3] "-7. No post-election data, deleted due to incomplete interview"
- [4] "-6. No post-election interview"                                
- [5] "-5. Interview breakoff (sufficient partial IW)"                
- [6] "1. Not at all"                                                 
- [7] "2. Not very well"                                              
- [8] "3. Somewhat well"                                              
- [9] "4. Very well"                                                  
-[10] "5. Extremely well"                                             
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 1. Not at all
+ 2. Not very well
+ 3. Somewhat well
+ 4. Very well
+ 5. Extremely well
 V202557 
-[1] "-9. Refused"                                                                 
-[2] "-7. No post-election data, deleted due to incomplete interview"              
-[3] "-6. No post-election interview"                                              
-[4] "-5. Interview breakoff (sufficient partial IW)"                              
-[5] "1. The novel coronavirus (COVID-19) was developed intentionally in a lab"    
-[6] "2. The novel coronavirus (COVID-19) was not developed intentionally in a lab"
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 1. The novel coronavirus (COVID-19) was developed intentionally in a lab
+ 2. The novel coronavirus (COVID-19) was not developed intentionally in a lab
 V202558 
-[1] "-7. No post-election data, deleted due to incomplete interview"
-[2] "-6. No post-election interview"                                
-[3] "-5. Interview breakoff (sufficient partial IW)"                
-[4] "-1. Inapplicable"                                              
-[5] "1. Not at all"                                                 
-[6] "2. A little"                                                   
-[7] "3. Moderately"                                                 
-[8] "4. Very"                                                       
-[9] "5. Extremely"                                                  
+-7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. Not at all
+ 2. A little
+ 3. Moderately
+ 4. Very
+ 5. Extremely
 V202559 
-[1] "-9. Refused"                                                                                     
-[2] "-7. No post-election data, deleted due to incomplete interview"                                  
-[3] "-6. No post-election interview"                                                                  
-[4] "-5. Interview breakoff (sufficient partial IW)"                                                  
-[5] "1. Scientific evidence that hydroxychloroquine is a safe and effective treatment for COVID-19"   
-[6] "2. No scientific evidence that hydroxychloroquine is a safe and effective treatment for COVID-19"
+-9. Refused
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 1. Scientific evidence that hydroxychloroquine is a safe and effective treatment for COVID-19
+ 2. No scientific evidence that hydroxychloroquine is a safe and effective treatment for COVID-19
 V202560 
-[1] "-7. No post-election data, deleted due to incomplete interview"
-[2] "-6. No post-election interview"                                
-[3] "-5. Interview breakoff (sufficient partial IW)"                
-[4] "-1. Inapplicable"                                              
-[5] "1. Not at all"                                                 
-[6] "2. A little"                                                   
-[7] "3. Moderately"                                                 
-[8] "4. Very"                                                       
-[9] "5. Extremely"                                                  
+-7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. Not at all
+ 2. A little
+ 3. Moderately
+ 4. Very
+ 5. Extremely
 V201327x 
-[1] "-2. DK/RF in V201325 or V201326" "1. Gotten much better"          
-[3] "2. Gotten somewhat better"       "3. Stayed about the same"       
-[5] "4. Gotten somewhat worse"        "5. Gotten much worse"           
+-2. DK/RF in V201325 or V201326
+ 1. Gotten much better
+ 2. Gotten somewhat better
+ 3. Stayed about the same
+ 4. Gotten somewhat worse
+ 5. Gotten much worse
 V201330x 
-[1] "-2. DK/RF in V201328 or V201329" "1. Get much better"             
-[3] "2. Get somewhat better"          "3. Stayed about the same"       
-[5] "4. Get somewhat worse"           "5. Get much worse"              
+-2. DK/RF in V201328 or V201329
+ 1. Get much better
+ 2. Get somewhat better
+ 3. Stayed about the same
+ 4. Get somewhat worse
+ 5. Get much worse
 V201333x 
-[1] "-2. DK/RF in V201331 or V201332" "1. Much better"                 
-[3] "2. Somewhat better"              "3. About the same"              
-[5] "4. Somewhat worse"               "5. Much worse"                  
+-2. DK/RF in V201331 or V201332
+ 1. Much better
+ 2. Somewhat better
+ 3. About the same
+ 4. Somewhat worse
+ 5. Much worse
 V202320x 
- [1] "-7. No post-election data, deleted due to incomplete interview"
- [2] "-6. No post-election interview"                                
- [3] "-5. Interview breakoff (sufficient partial IW)"                
- [4] "-2. DK/RF in V202318 or V202319"                               
- [5] "1. A great deal easier"                                        
- [6] "2. A moderate amount easier"                                   
- [7] "3. A little easier"                                            
- [8] "4. The same"                                                   
- [9] "5. A litte harder"                                             
-[10] "6. A moderate amount harder"                                   
-[11] "7. A great deal harder"                                        
+-7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -2. DK/RF in V202318 or V202319
+ 1. A great deal easier
+ 2. A moderate amount easier
+ 3. A little easier
+ 4. The same
+ 5. A litte harder
+ 6. A moderate amount harder
+ 7. A great deal harder
 V202352 
-[1] "-9. Refused"                                                   
-[2] "-8. Don't know"                                                
-[3] "-7. No post-election data, deleted due to incomplete interview"
-[4] "-6. No post-election interview"                                
-[5] "-5. Interview breakoff (sufficient partial IW)"                
-[6] "1. Lower class"                                                
-[7] "2. Working class"                                              
-[8] "3. Middle class"                                               
-[9] "4. Upper class"                                                
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 1. Lower class
+ 2. Working class
+ 3. Middle class
+ 4. Upper class
 V202353 
-[1] "-9. Refused"                                                   
-[2] "-8. Don't know"                                                
-[3] "-7. No post-election data, deleted due to incomplete interview"
-[4] "-6. No post-election interview"                                
-[5] "-5. Interview breakoff (sufficient partial IW)"                
-[6] "-1. Inapplicable"                                              
-[7] "1. Lower middle class"                                         
-[8] "2. Middle class"                                               
-[9] "3. Upper middle class"                                         
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. Lower middle class
+ 2. Middle class
+ 3. Upper middle class
 V202355 
-[1] "-9. Refused"                                                   
-[2] "-8. Don't know"                                                
-[3] "-7. No post-election data, deleted due to incomplete interview"
-[4] "-6. No post-election interview"                                
-[5] "-5. Interview breakoff (sufficient partial IW)"                
-[6] "1. Rural area"                                                 
-[7] "2. Small town"                                                 
-[8] "3. Suburb"                                                     
-[9] "4. City"                                                       
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 1. Rural area
+ 2. Small town
+ 3. Suburb
+ 4. City
 V202356 
- [1] "-9. Refused"                                                   
- [2] "-8. Don't know"                                                
- [3] "-7. No post-election data, deleted due to incomplete interview"
- [4] "-6. No post-election interview"                                
- [5] "-5. Interview breakoff (sufficient partial IW)"                
- [6] "1. City person"                                                
- [7] "2. Suburb person"                                              
- [8] "3. Small-town person"                                          
- [9] "4. Country (or rural) person"                                  
-[10] "5. Something else {SPECIFY}"                                   
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ 1. City person
+ 2. Suburb person
+ 3. Small-town person
+ 4. Country (or rural) person
+ 5. Something else {SPECIFY}
 V202357 
- [1] "-9. Refused"                                                   
- [2] "-8. Don't know"                                                
- [3] "-7. No post-election data, deleted due to incomplete interview"
- [4] "-6. No post-election interview"                                
- [5] "-5. Interview breakoff (sufficient partial IW)"                
- [6] "-1. Inapplicable"                                              
- [7] "1. Not at all important"                                       
- [8] "2. A little important"                                         
- [9] "3. Moderately important"                                       
-[10] "4. Very important"                                             
-[11] "5. Extremely important"                                        
+-9. Refused
+ -8. Don't know
+ -7. No post-election data, deleted due to incomplete interview
+ -6. No post-election interview
+ -5. Interview breakoff (sufficient partial IW)
+ -1. Inapplicable
+ 1. Not at all important
+ 2. A little important
+ 3. Moderately important
+ 4. Very important
+ 5. Extremely important
 V201420x 
-[1] "-2. DK/RF in V201418 or V201419" "1. Favor a great deal"          
-[3] "2. Favor a moderate amount"      "3. Favor a little"              
-[5] "4. Neither favor nor oppose"     "5. Oppose a little"             
-[7] "6. Oppose a moderate amount"     "7. Oppose a great deal"         
+-2. DK/RF in V201418 or V201419
+ 1. Favor a great deal
+ 2. Favor a moderate amount
+ 3. Favor a little
+ 4. Neither favor nor oppose
+ 5. Oppose a little
+ 6. Oppose a moderate amount
+ 7. Oppose a great deal
 V201423x 
-[1] "-2. DK/RF in V201421 or V201422"                                          
-[2] "1. Favors a great deal they should be sent back"                          
-[3] "2. Favors a moderate amount they should be sent back"                     
-[4] "3. Favors a little they should be sent back"                              
-[5] "4. Favors a little they should be allowed to live and work in US"         
-[6] "5. Favors a moderate amount they should be allowed to live and work in US"
-[7] "6. Favors a great deal they should be allowed to live and work in US"     
+-2. DK/RF in V201421 or V201422
+ 1. Favors a great deal they should be sent back
+ 2. Favors a moderate amount they should be sent back
+ 3. Favors a little they should be sent back
+ 4. Favors a little they should be allowed to live and work in US
+ 5. Favors a moderate amount they should be allowed to live and work in US
+ 6. Favors a great deal they should be allowed to live and work in US
 V201426x 
-[1] "-2. DK/RF in V201424 or V201425" "1. Favor a great deal"          
-[3] "2. Favor a moderate amount"      "3. Favor a little"              
-[5] "4. Neither favor nor oppose"     "5. Oppose a little"             
-[7] "6. Oppose a moderate amount"     "7. Oppose a great deal"         
+-2. DK/RF in V201424 or V201425
+ 1. Favor a great deal
+ 2. Favor a moderate amount
+ 3. Favor a little
+ 4. Neither favor nor oppose
+ 5. Oppose a little
+ 6. Oppose a moderate amount
+ 7. Oppose a great deal
 V201235 
-[1] "-9. Refused"              "-8. Don't know"          
-[3] "1. Waste a lot"           "2. Waste some"           
-[5] "3. Don't waste very much"
+-9. Refused
+ -8. Don't know
+ 1. Waste a lot
+ 2. Waste some
+ 3. Don't waste very much
 V201236 
-[1] "-9. Refused"    "-8. Don't know" "1. All"         "2. Most"       
-[5] "3. About half"  "4. A few"       "5. None"       
+-9. Refused
+ -8. Don't know
+ 1. All
+ 2. Most
+ 3. About half
+ 4. A few
+ 5. None
 V201382x 
-[1] "-2. DK/RF in V201380 or V201381" "1. Increased a great deal"      
-[3] "2. Increased a moderate amount"  "3. Increased a little"          
-[5] "4. Stayed the same"              "5. Decreased a little"          
-[7] "6. Decreased a moderate amount"  "7. Decreased a great deal"      
+-2. DK/RF in V201380 or V201381
+ 1. Increased a great deal
+ 2. Increased a moderate amount
+ 3. Increased a little
+ 4. Stayed the same
+ 5. Decreased a little
+ 6. Decreased a moderate amount
+ 7. Decreased a great deal
 V201351 
-[1] "-9. Refused"              "-8. Don't know"          
-[3] "1. Not at all accurately" "2. A little accurately"  
-[5] "3. Moderately accurately" "4. Very accurately"      
-[7] "5. Completely accurately"
+-9. Refused
+ -8. Don't know
+ 1. Not at all accurately
+ 2. A little accurately
+ 3. Moderately accurately
+ 4. Very accurately
+ 5. Completely accurately
 V201352 
-[1] "-9. Refused"          "-8. Don't know"       "1. Not at all"       
-[4] "2. A little"          "3. A moderate amount" "4. A lot"            
-[7] "5. A great deal"     
+-9. Refused
+ -8. Don't know
+ 1. Not at all
+ 2. A little
+ 3. A moderate amount
+ 4. A lot
+ 5. A great deal
 V201356x 
-[1] "-2. DK/RF in V201354 or V201355" "1. Favor a great deal"          
-[3] "2. Favor moderately"             "3. Favor a little"              
-[5] "4. Neither favor nor oppose"     "5. Oppose a little"             
-[7] "6. Oppose moderately"            "7. Oppose a great deal"         
+-2. DK/RF in V201354 or V201355
+ 1. Favor a great deal
+ 2. Favor moderately
+ 3. Favor a little
+ 4. Neither favor nor oppose
+ 5. Oppose a little
+ 6. Oppose moderately
+ 7. Oppose a great deal
 V201359x 
-[1] "-2. DK/RF in V201357 or V201358" "1. Favor a great deal"          
-[3] "2. Favor moderately"             "3. Favor a little"              
-[5] "4. Neither favor nor oppose"     "5. Oppose a little"             
-[7] "6. Oppose moderately"            "7. Oppose a great deal"         
+-2. DK/RF in V201357 or V201358
+ 1. Favor a great deal
+ 2. Favor moderately
+ 3. Favor a little
+ 4. Neither favor nor oppose
+ 5. Oppose a little
+ 6. Oppose moderately
+ 7. Oppose a great deal
 V201362x 
-[1] "-2. DK/RF in V201360 or V201361" "1. Favor a great deal"          
-[3] "2. Favor moderately"             "3. Favor a little"              
-[5] "4. Neither favor nor oppose"     "5. Oppose a little"             
-[7] "6. Oppose moderately"            "7. Oppose a great deal"         
+-2. DK/RF in V201360 or V201361
+ 1. Favor a great deal
+ 2. Favor moderately
+ 3. Favor a little
+ 4. Neither favor nor oppose
+ 5. Oppose a little
+ 6. Oppose moderately
+ 7. Oppose a great deal
 V202468x_quartile 
-NULL
+1. 1st Quartile: Under $30,000
+ 2. 2nd Quartile: $30,000 - $59,999
+ 3. 3rd Quartile: $60,000 - $99,999
+ 4. 4th Quartile: $100,000 or more
+ 99. NA
