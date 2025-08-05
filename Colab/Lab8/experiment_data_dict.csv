@@ -9,7 +9,7 @@ age_bucket,Modeled age in 6 categories
 uninsured_score,Modeled probability of being uninsured
 registered_voter,Binary indicator for registered voter as of the 2012 general election
 gen_vote_2012,"Whether someone voted in the 2012 general election. A = absentee, E = early, M = mail, P = polls, Q = questionable/provisional, Y = voted"
-gen_vote_2010,"Whether someone voted in the 2012 general election. A = absentee, E = early, M = mail, P = polls, Q = questionable/provisional, Y = voted"
+gen_vote_2010,"Whether someone voted in the 2010 general election. A = absentee, E = early, M = mail, P = polls, Q = questionable/provisional, Y = voted"
 uninsured_reported,1 = consumer at some point before the experiment started indicated to the organization that he/she was uninsured at that point in time
 subscribed,Subscribed to GCA email list as of 3/14/2014
 voted_2012,"1 = voted, 0 = did not vote"
