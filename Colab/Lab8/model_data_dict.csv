@@ -12,7 +12,7 @@ voter_status,an individual's voter status
 party_id,"party identification, if the person is registered to vote in a state that has party registration "
 hh_size,size of the individual's household 
 gen_vote_2012,"Whether someone voted in the 2012 general election. A = absentee, E = early, M = mail, P = polls, Q = questionable/provisional, Y = voted"
-gen_vote_2010,"Whether someone voted in the 2012 general election. A = absentee, E = early, M = mail, P = polls, Q = questionable/provisional, Y = voted"
+gen_vote_2010,"Whether someone voted in the 2010 general election. A = absentee, E = early, M = mail, P = polls, Q = questionable/provisional, Y = voted"
 support_score,"modeled probability of political support in the 2012 election, with 100 indicating 100% likelihood of supporting Democrats and 0 indicating 0% likelihood of supporting Democrats "
 turnout_score,"modeled probability of the likelihood of voting in the 2012 election, with 100 indicating 100% likelihood of voting "
 county_fips,county code 
